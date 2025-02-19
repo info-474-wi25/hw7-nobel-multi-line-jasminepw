@@ -13,3 +13,7 @@
     fill: #666; /* A lighter gray for axis labels */
     text-anchor: middle; /* Center the text */
 }
+
+.legend {
+    font-family: 'Arial', sans-serif;
+}
